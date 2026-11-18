@@ -122,6 +122,4 @@ A Postman collection is included with the project submission.
 
 **Shibam Bhattacharjee**
 
-B.Tech in Information Technology
 
-MCKV Institute of Engineering
